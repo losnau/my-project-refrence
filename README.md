@@ -1,3 +1,7 @@
+
+# gevent-celery-mulprocess-simple-refrence
+
+
 ### 代码可学习
 
 1. celery异步任务项目结构，项目运行
